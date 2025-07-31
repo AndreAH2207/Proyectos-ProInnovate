@@ -1,6 +1,6 @@
-# Innovate - Análisis de Proyectos por Departamento
+#  Análisis de datos para los proyectos financiados en ejecución de ProInnóvate 
 
-Este proyecto realiza un análisis visual de la cantidad de contratos de ejecución de proyectos en el Perú, agrupados por departamento. Utiliza Python, pandas y matplotlib para transformar los datos en gráficos comprensibles que facilitan la interpretación regional de la información.
+Este trabajo realiza un análisis visual de la cantidad de contratos de ejecución de proyectos en el Perú, agrupados por departamento. Utiliza Python, pandas y matplotlib para transformar los datos en gráficos comprensibles que facilitan la interpretación regional de la información.
 
 ## Descripción
 
